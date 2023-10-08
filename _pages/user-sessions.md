@@ -34,17 +34,17 @@ input:focus-visible + label { outline: 2px solid rgba(242,120,75,0.95); border-r
     <tr>
         <td>
             <video class="video-js" style="display:block;width:100%;height:fit-content;" controls preload="auto">
-                <source src="/videos/u1_ac.webm" type="video/webm">
+                <source src="/videos/user_sessions/u1_ac.webm" type="video/webm">
             </video>
         </td>
         <td>
             <video class="video-js" style="display:block;width:100%;height:fit-content;" controls preload="auto">
-                <source src="/videos/u1_lcnoap.webm" type="video/webm">
+                <source src="/videos/user_sessions/u1_lcnoap.webm" type="video/webm">
             </video>
         </td>
         <td>
             <video class="video-js" style="display:block;width:100%;height:fit-content;" controls preload="auto">
-                <source src="/videos/u1_lc.webm" type="video/webm">
+                <source src="/videos/user_sessions/u1_lc.webm" type="video/webm">
             </video>
         </td>
     </tr>
@@ -92,17 +92,17 @@ input:focus-visible + label { outline: 2px solid rgba(242,120,75,0.95); border-r
     <tr>
         <td>
             <video class="video-js" style="display:block;width:100%;height:fit-content;" controls preload="auto">
-                <source src="/videos/u2_ac.webm" type="video/webm">
+                <source src="/videos/user_sessions/u2_ac.webm" type="video/webm">
             </video>
         </td>
         <td>
             <video class="video-js" style="display:block;width:100%;height:fit-content;" controls preload="auto">
-                <source src="/videos/u2_lcnoap.webm" type="video/webm">
+                <source src="/videos/user_sessions/u2_lcnoap.webm" type="video/webm">
             </video>
         </td>
         <td>
             <video class="video-js" style="display:block;width:100%;height:fit-content;" controls preload="auto">
-                <source src="/videos/u2_lc.webm" type="video/webm">
+                <source src="/videos/user_sessions/u2_lc.webm" type="video/webm">
             </video>
         </td>
     </tr>
@@ -150,17 +150,17 @@ input:focus-visible + label { outline: 2px solid rgba(242,120,75,0.95); border-r
     <tr>
         <td>
             <video class="video-js" style="display:block;width:100%;height:fit-content;" controls preload="auto">
-                <source src="/videos/u3_ac.webm" type="video/webm">
+                <source src="/videos/user_sessions/u3_ac.webm" type="video/webm">
             </video>
         </td>
         <td>
             <video class="video-js" style="display:block;width:100%;height:fit-content;" controls preload="auto">
-                <source src="/videos/u3_lcnoap.webm" type="video/webm">
+                <source src="/videos/user_sessions/u3_lcnoap.webm" type="video/webm">
             </video>
         </td>
         <td>
             <video class="video-js" style="display:block;width:100%;height:fit-content;" controls preload="auto">
-                <source src="/videos/u3_lc.webm" type="video/webm">
+                <source src="/videos/user_sessions/u3_lc.webm" type="video/webm">
             </video>
         </td>
     </tr>
@@ -208,17 +208,17 @@ input:focus-visible + label { outline: 2px solid rgba(242,120,75,0.95); border-r
     <tr>
         <td>
             <video class="video-js" style="display:block;width:100%;height:fit-content;" controls preload="auto">
-                <source src="/videos/u4_ac.webm" type="video/webm">
+                <source src="/videos/user_sessions/u4_ac.webm" type="video/webm">
             </video>
         </td>
         <td>
             <video class="video-js" style="display:block;width:100%;height:fit-content;" controls preload="auto">
-                <source src="/videos/u4_lcnoap.webm" type="video/webm">
+                <source src="/videos/user_sessions/u4_lcnoap.webm" type="video/webm">
             </video>
         </td>
         <td>
             <video class="video-js" style="display:block;width:100%;height:fit-content;" controls preload="auto">
-                <source src="/videos/u4_lc.webm" type="video/webm">
+                <source src="/videos/user_sessions/u4_lc.webm" type="video/webm">
             </video>
         </td>
     </tr>
@@ -266,17 +266,17 @@ input:focus-visible + label { outline: 2px solid rgba(242,120,75,0.95); border-r
     <tr>
         <td>
             <video class="video-js" style="display:block;width:100%;height:fit-content;" controls preload="auto">
-                <source src="/videos/u5_ac.webm" type="video/webm">
+                <source src="/videos/user_sessions/u5_ac.webm" type="video/webm">
             </video>
         </td>
         <td>
             <video class="video-js" style="display:block;width:100%;height:fit-content;" controls preload="auto">
-                <source src="/videos/u5_lcnoap.webm" type="video/webm">
+                <source src="/videos/user_sessions/u5_lcnoap.webm" type="video/webm">
             </video>
         </td>
         <td>
             <video class="video-js" style="display:block;width:100%;height:fit-content;" controls preload="auto">
-                <source src="/videos/u5_lc.webm" type="video/webm">
+                <source src="/videos/user_sessions/u5_lc.webm" type="video/webm">
             </video>
         </td>
     </tr>
@@ -324,17 +324,17 @@ input:focus-visible + label { outline: 2px solid rgba(242,120,75,0.95); border-r
     <tr>
         <td>
             <video class="video-js" style="display:block;width:100%;height:fit-content;" controls preload="auto">
-                <source src="/videos/u6_ac.webm" type="video/webm">
+                <source src="/videos/user_sessions/u6_ac.webm" type="video/webm">
             </video>
         </td>
         <td>
             <video class="video-js" style="display:block;width:100%;height:fit-content;" controls preload="auto">
-                <source src="/videos/u6_lcnoap.webm" type="video/webm">
+                <source src="/videos/user_sessions/u6_lcnoap.webm" type="video/webm">
             </video>
         </td>
         <td>
             <video class="video-js" style="display:block;width:100%;height:fit-content;" controls preload="auto">
-                <source src="/videos/u6_lc.webm" type="video/webm">
+                <source src="/videos/user_sessions/u6_lc.webm" type="video/webm">
             </video>
         </td>
     </tr>
@@ -382,17 +382,17 @@ input:focus-visible + label { outline: 2px solid rgba(242,120,75,0.95); border-r
     <tr>
         <td>
             <video class="video-js" style="display:block;width:100%;height:fit-content;" controls preload="auto">
-                <source src="/videos/u7_ac.webm" type="video/webm">
+                <source src="/videos/user_sessions/u7_ac.webm" type="video/webm">
             </video>
         </td>
         <td>
             <video class="video-js" style="display:block;width:100%;height:fit-content;" controls preload="auto">
-                <source src="/videos/u7_lcnoap.webm" type="video/webm">
+                <source src="/videos/user_sessions/u7_lcnoap.webm" type="video/webm">
             </video>
         </td>
         <td>
             <video class="video-js" style="display:block;width:100%;height:fit-content;" controls preload="auto">
-                <source src="/videos/u7_lc.webm" type="video/webm">
+                <source src="/videos/user_sessions/u7_lc.webm" type="video/webm">
             </video>
         </td>
     </tr>
@@ -440,17 +440,17 @@ input:focus-visible + label { outline: 2px solid rgba(242,120,75,0.95); border-r
     <tr>
         <td>
             <video class="video-js" style="display:block;width:100%;height:fit-content;" controls preload="auto">
-                <source src="/videos/u8_ac.webm" type="video/webm">
+                <source src="/videos/user_sessions/u8_ac.webm" type="video/webm">
             </video>
         </td>
         <td>
             <video class="video-js" style="display:block;width:100%;height:fit-content;" controls preload="auto">
-                <source src="/videos/u8_lcnoap.webm" type="video/webm">
+                <source src="/videos/user_sessions/u8_lcnoap.webm" type="video/webm">
             </video>
         </td>
         <td>
             <video class="video-js" style="display:block;width:100%;height:fit-content;" controls preload="auto">
-                <source src="/videos/u8_lc.webm" type="video/webm">
+                <source src="/videos/user_sessions/u8_lc.webm" type="video/webm">
             </video>
         </td>
     </tr>
@@ -498,17 +498,17 @@ input:focus-visible + label { outline: 2px solid rgba(242,120,75,0.95); border-r
     <tr>
         <td>
             <video class="video-js" style="display:block;width:100%;height:fit-content;" controls preload="auto">
-                <source src="/videos/u9_ac.webm" type="video/webm">
+                <source src="/videos/user_sessions/u9_ac.webm" type="video/webm">
             </video>
         </td>
         <td>
             <video class="video-js" style="display:block;width:100%;height:fit-content;" controls preload="auto">
-                <source src="/videos/u9_lcnoap.webm" type="video/webm">
+                <source src="/videos/user_sessions/u9_lcnoap.webm" type="video/webm">
             </video>
         </td>
         <td>
             <video class="video-js" style="display:block;width:100%;height:fit-content;" controls preload="auto">
-                <source src="/videos/u9_lc.webm" type="video/webm">
+                <source src="/videos/user_sessions/u9_lc.webm" type="video/webm">
             </video>
         </td>
     </tr>
@@ -556,17 +556,17 @@ input:focus-visible + label { outline: 2px solid rgba(242,120,75,0.95); border-r
     <tr>
         <td>
             <video class="video-js" style="display:block;width:100%;height:fit-content;" controls preload="auto">
-                <source src="/videos/u10_ac.webm" type="video/webm">
+                <source src="/videos/user_sessions/u10_ac.webm" type="video/webm">
             </video>
         </td>
         <td>
             <video class="video-js" style="display:block;width:100%;height:fit-content;" controls preload="auto">
-                <source src="/videos/u10_lcnoap.webm" type="video/webm">
+                <source src="/videos/user_sessions/u10_lcnoap.webm" type="video/webm">
             </video>
         </td>
         <td>
             <video class="video-js" style="display:block;width:100%;height:fit-content;" controls preload="auto">
-                <source src="/videos/u10_lc.webm" type="video/webm">
+                <source src="/videos/user_sessions/u10_lc.webm" type="video/webm">
             </video>
         </td>
     </tr>
@@ -614,17 +614,17 @@ input:focus-visible + label { outline: 2px solid rgba(242,120,75,0.95); border-r
     <tr>
         <td>
             <video class="video-js" style="display:block;width:100%;height:fit-content;" controls preload="auto">
-                <source src="/videos/u11_ac.webm" type="video/webm">
+                <source src="/videos/user_sessions/u11_ac.webm" type="video/webm">
             </video>
         </td>
         <td>
             <video class="video-js" style="display:block;width:100%;height:fit-content;" controls preload="auto">
-                <source src="/videos/u11_lcnoap.webm" type="video/webm">
+                <source src="/videos/user_sessions/u11_lcnoap.webm" type="video/webm">
             </video>
         </td>
         <td>
             <video class="video-js" style="display:block;width:100%;height:fit-content;" controls preload="auto">
-                <source src="/videos/u11_lc.webm" type="video/webm">
+                <source src="/videos/user_sessions/u11_lc.webm" type="video/webm">
             </video>
         </td>
     </tr>
@@ -672,17 +672,17 @@ input:focus-visible + label { outline: 2px solid rgba(242,120,75,0.95); border-r
     <tr>
         <td>
             <video class="video-js" style="display:block;width:100%;height:fit-content;" controls preload="auto">
-                <source src="/videos/u12_ac.webm" type="video/webm">
+                <source src="/videos/user_sessions/u12_ac.webm" type="video/webm">
             </video>
         </td>
         <td>
             <video class="video-js" style="display:block;width:100%;height:fit-content;" controls preload="auto">
-                <source src="/videos/u12_lcnoap.webm" type="video/webm">
+                <source src="/videos/user_sessions/u12_lcnoap.webm" type="video/webm">
             </video>
         </td>
         <td>
             <video class="video-js" style="display:block;width:100%;height:fit-content;" controls preload="auto">
-                <source src="/videos/u12_lc.webm" type="video/webm">
+                <source src="/videos/user_sessions/u12_lc.webm" type="video/webm">
             </video>
         </td>
     </tr>

@@ -22,17 +22,17 @@ input:focus-visible + label { outline: 2px solid rgba(242,120,75,0.95); border-r
     <tr>
         <td>
             <video class="video-js" style="display:block;width:100%;height:fit-content;" controls preload="auto">
-                <source src="/videos/u{N}_ac.webm" type="video/webm">
+                <source src="/videos/user_sessions/u{N}_ac.webm" type="video/webm">
             </video>
         </td>
         <td>
             <video class="video-js" style="display:block;width:100%;height:fit-content;" controls preload="auto">
-                <source src="/videos/u{N}_lcnoap.webm" type="video/webm">
+                <source src="/videos/user_sessions/u{N}_lcnoap.webm" type="video/webm">
             </video>
         </td>
         <td>
             <video class="video-js" style="display:block;width:100%;height:fit-content;" controls preload="auto">
-                <source src="/videos/u{N}_lc.webm" type="video/webm">
+                <source src="/videos/user_sessions/u{N}_lc.webm" type="video/webm">
             </video>
         </td>
     </tr>
