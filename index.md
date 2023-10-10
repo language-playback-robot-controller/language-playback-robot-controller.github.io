@@ -6,25 +6,31 @@ Recent advancements have enabled human-robot collaboration through physical assi
 We then propose a Language Controller that synchronizes motion and speech, modulating both based on user cooperation. Experiments with 12 users show the Language Controller successfully aligns motion and speech compared to baselines. This provides a framework for fluent human-robot collaboration."
 ---
 
-<tr>
-    <td>
-        <center>
-            <img src="/images/language-control-diagram.svg" style="width:50%;"/>
-        </center>
-    </td>
-</tr>
+<script src="https://vjs.zencdn.net/8.0.4/video.min.js"></script>
+
+<table style="table-layout:fixed;width:60%;">
+    <tr>
+        <td>
+            <video class="video-js" style="display:block;width:100%;height:fit-content;" controls preload="auto">
+                <source src="/videos/user_sessions/u8_lc.webm" type="video/webm">
+            </video>
+        </td>
+    </tr>
+</table>
+<span style="font-size:medium;">
+Robot is seen interacting with a user participant using our language controller on a desired trajectory which was inspired by the therapy session "shoulder external rotation''. Interactions and Results for all the users are available in <a href="{{ item.url | relative_url }}/user-sessions">user sessions</a>.</span>
+
+<center style="margin-top:2em;margin-bottom:2em">
+    <img src="/images/language-control-diagram.svg" style="width:50%;"/>
+</center>
     
 ## Results
 
 <!--#### Evaluating solvers on a set of static poses-->
 <br/><br/>
-<tr>
-    <td>
-        <center>
-            <img src="/images/plots/summary.svg" style="width:50%;"/>
-        </center>
-    </td>
-</tr>
+<center>
+    <img src="/images/plots/summary.svg" style="width:50%;"/>
+</center>
 <span style="font-size:medium;">
 Violin plot of the distributions of metrics for 3 controllers across all 12 user sessions. Blue bars indicate min, median, and max of a distribution. Consistent distributions of cooperation for all controllers show that all controllers deliver similar physical experience to the users; On this ground, LC exhibits less audio-motion misalignment (both actual and predicted) than LC-noAR which exhibits significantly less variation in misalignment than the AC baseline. Adaptive paraphrasing allows LC to maintain a more natural speed of speech most of the time than LC-noAR, as shown by a more concentrated peak around the default rate of 1 in audio rate distribution. Overall, LC best aligns the robot's speech with motion. See <a href="{{ item.url | relative_url }}/user-sessions">results for all user sessions</a>.</span>
 

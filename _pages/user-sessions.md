@@ -4,9 +4,13 @@ title: User Sessions
 subtitle: "The user study had 12 participants (7 males, 5 females, mean age 23). The UR5 robot guided users through a predefined trajectory demonstrated by the therapist. Users sat beside the robot, placed their hand on the desk. The robot guided their hand along the trajectory with speech instructions while users varied resistance arbitrarily."
 ---
 
-<a href="{{ item.url | relative_url }}/therapy-sessions">For demonstrative therapy sessions collected from Spaulding Rehabilitation Center, see HERE.</a>
 
 <script src="https://vjs.zencdn.net/8.0.4/video.min.js"></script>
+
+## Control Schemes Evaluated and Compared
+* **Admittance Controller with Decoupled Audio (AC)**: This baseline is a pure admittance controller. The audio is a single prerecorded audio file that starts simultaneously with the trajectory. Physical and Audio Paces are not modulated at all.
+* **Language Controller without Adaptive Paraphrasing (LC-noAP)**: Our controller but without the ability to adaptively paraphrase the speech.
+* **Language Controller (LC)**: Our controller with adaptive paraphrasing by traversing a phrase graph.
 
 
 <!-- GENERATED -->
