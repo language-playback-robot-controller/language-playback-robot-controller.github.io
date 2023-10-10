@@ -8,21 +8,20 @@ We then propose a Language Controller that synchronizes motion and speech, modul
 
 <script src="https://vjs.zencdn.net/8.0.4/video.min.js"></script>
 
-<table style="table-layout:fixed;width:60%;">
-    <tr>
-        <td>
-            <video class="video-js" style="display:block;width:100%;height:fit-content;" controls preload="auto">
-                <source src="/videos/user_sessions/u8_lc.webm" type="video/webm">
-            </video>
-        </td>
-    </tr>
-</table>
+<center>
+    <video class="video-js" style="display:block;width:40%;height:fit-content;" controls preload="auto">
+        <source src="/videos/user_sessions/u8_lc.webm" type="video/webm">
+    </video>
+</center>
 <span style="font-size:medium;">
 Robot is seen interacting with a user participant using our language controller on a desired trajectory which was inspired by the therapy session "shoulder external rotation''. Interactions and Results for all the users are available in <a href="{{ item.url | relative_url }}/user-sessions">user sessions</a>.</span>
 
 <center style="margin-top:2em;margin-bottom:2em">
     <img src="/images/language-control-diagram.svg" style="width:50%;"/>
+    <span style="font-size:medium;">
+    The Control Scheme of Language Controller.</span>
 </center>
+
     
 ## Results
 

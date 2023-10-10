@@ -8,20 +8,16 @@ header_settings:
 
 menu_settings:
   menu_items:
-    - title: 'Overview'
-      url: '/'
     - title: 'Therapy Sessions'
       url: '/therapy-sessions'
-    - title: 'Evaluations'
+    - title: 'Results'
       url: '/user-sessions'
-    - title: 'Proofs'
-      url: '/proofs'
     - title: 'Paper'
       url: '/paper'
+    - title: 'Proof'
+      url: '/proofs'
     - title: 'Team'
       url: '/team'
-    - title: 'Contact'
-      url: '/contact'
     
 footer_settings:
   logo_image: 
