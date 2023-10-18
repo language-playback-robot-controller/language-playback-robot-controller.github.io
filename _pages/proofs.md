@@ -1,5 +1,5 @@
 ---
-permalink: /Proofs/
+permalink: /proofs/
 title: Supplementals
 subtitle: 
 ---
