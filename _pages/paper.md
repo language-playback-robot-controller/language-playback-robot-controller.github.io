@@ -1,12 +1,12 @@
 ---
 permalink: /paper/
 title: Latest Version of the Paper
-subtitle: 
+subtitle:
 ---
 
-The paper is currently under review at the *IEEE International Conference on Robotics and Automation (ICRA 2024)*. 
+The paper is currently under review at the _Robotics: Science and Systems (RSS 2024)_.
 
 <div style="margin-left: auto; margin-right: auto; margin-top: 20px; max-width: 60%">
-<iframe src="/paper/Language_Control___ICRA_2024.pdf" type="application/pdf" width="100%" height="1000px"> 
+<iframe src="/paper/RSS_Language_Controller_new.pdf" type="application/pdf" width="100%" height="1000px"> 
 </iframe>
 </div>
